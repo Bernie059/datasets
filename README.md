@@ -1,2 +1,2 @@
 # datasets
-data sets for machine learning
+Data sets for machine learning
